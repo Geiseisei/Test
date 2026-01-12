@@ -20,7 +20,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-.env
-db.sqlite3
-__pycache__/
